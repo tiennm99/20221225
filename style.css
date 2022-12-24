@@ -1,0 +1,26 @@
+html, body {
+  background-color: black;
+  font-family: 'JetBrains Mono', sans-serif;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  text-align: center;
+}
+
+canvas {
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  color: #aa00ff;
+}
+
+.footer {
+  bottom: 12px;
+  color: white;
+  font-size: 12pt;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
